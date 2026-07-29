@@ -318,5 +318,10 @@
         "uuid": "c2194e24-9fa9-44f1-a1cc-d982b247ce71",
         "cape": "tester",
         "name": "Guigui_aura"
+    },
+    {
+        "uuid": "8c54aea3-5120-4978-9b7e-1baed995ea63",
+        "cape": "tester",
+        "name": "Zorgoliath"
     }
 ]
