@@ -323,5 +323,15 @@
         "uuid": "8c54aea3-5120-4978-9b7e-1baed995ea63",
         "cape": "tester",
         "name": "Zorgoliath"
+    },
+    {
+        "uuid": "781d55a8-5b21-43fc-adb8-9f14af2afbe5",
+        "cape": "tester",
+        "name": "Muribbeiro"
+    },
+    {
+        "uuid": "fa85a03b-5639-4eb4-bb4e-6c6393a9ed68",
+        "cape": "tester",
+        "name": "Eknoh"
     }
 ]
