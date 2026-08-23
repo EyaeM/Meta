@@ -196,7 +196,7 @@
     },
         {
         "uuid": "32d4b8e1-ef7d-4f9f-a400-c33403f45051",
-        "cape": "contributor",
+        "cape": "dev",
         "name": "FectoElfilis"
     },
     {
@@ -343,5 +343,10 @@
         "uuid": "d3c9374e-e254-4075-b566-f173c42b103d",
         "cape": "tester",
         "name": "SpiffRat"
+    },
+    {
+        "uuid": "29d6e087-c0fd-4f5b-ad17-e76a920b1c2b",
+        "cape": "dev",
+        "name": "Bennie_2007"
     }
 ]
