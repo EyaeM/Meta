@@ -343,5 +343,10 @@
         "uuid": "29d6e087-c0fd-4f5b-ad17-e76a920b1c2b",
         "cape": "dev",
         "name": "Bennie_2007"
+    },
+    {
+        "uuid": "9e13e181-49e0-4776-960b-63874cb83659",
+        "cape": "tester",
+        "name": "rusyashka"
     }
 ]
