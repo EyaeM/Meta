@@ -353,5 +353,10 @@
         "uuid": "5f33e6fd-d427-424b-9ed5-3703b375a8dd",
         "cape": "tester",
         "name": "WaterBeanz"
+    },
+    {
+        "uuid": "d597eaf2-d68e-410b-870f-5f71e5ad7457",
+        "cape": "tester",
+        "name": "Auromancy"
     }
 ]
